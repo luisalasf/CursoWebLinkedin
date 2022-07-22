@@ -55,4 +55,3 @@ video.addEventListener("seeking", function () {
     console.log("Se está buscando en el video: " + this.currentTime);
 });
 
-
